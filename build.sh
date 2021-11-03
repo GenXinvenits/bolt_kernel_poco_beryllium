@@ -25,7 +25,7 @@ fi
 
 KERNEL_DEFCONFIG=beryllium_defconfig
 Device="Beryllium (PocoF1)"
-ANYKERNEL3_DIR=$PWD/AnyKernel3/
+ANYKERNEL3_DIR=$PWD/anykernel3/
 KERNELDIR=$PWD/
 FINAL_KERNEL_ZIP=B⚡️LT:Revolution.zip
 export PATH="${PWD}/clang/bin:${PATH}"
